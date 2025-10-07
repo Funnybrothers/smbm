@@ -21,3 +21,13 @@
         "smbm"
     ]
 }
+{
+    "metas": [
+        {
+            "id": "smbm:attu2017",
+            "type": "movie",
+            "name": "Attu (2017)",
+            "poster": "https://upload.wikimedia.org/wikipedia/en/8/8e/Attu_film_poster.jpg"
+        }
+    ]
+}
